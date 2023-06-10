@@ -10,7 +10,11 @@
 .Plogin .login_box .group input + input {margin-top: 18px;}
 .Plogin .login_box input[type=text]:-ms-input-placeholder,
 .Plogin .login_box input[type=password]:-ms-input-placeholder {color: #aaa; opacity: 1;}
+<<<<<<< HEAD
 .Plogin .login_box button {display: block; position: absolute; left: 435px; top: 70px; width: 160px; height: 110px; border-radius: 8px; color: #fff; font-size: 20px; font-weight: 500; text-align: center; line-height: 110px; background: #169bd5;}
+=======
+.Plogin .login_box button {display: block; position: absolute; left: 435px; top: 70px; width: 160px; height: 110px; border-radius: 8px; color: #fff; font-size: 20px; font-weight: 500; text-align: center; line-height: 110px; background: #ffe3a1;}
+>>>>>>> 5c753d7561bc0c52cbbd0effbeaeb5461e5dc05b
 .Plogin .login_box button span {display: block; position: relative; height: 100%;}
 .Plogin .login_box .chk {margin-top: 20px; font-size: 0;}
 .Plogin .login_box .chk em {display: inline-block; height: 30px; margin-left: 40px; color: #666; font-size: 16px;}

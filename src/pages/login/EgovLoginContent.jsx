@@ -1,7 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import * as EgovNet from 'api/egovFetch';
-
 import URL from 'constants/url';
 import CODE from 'constants/code';
 

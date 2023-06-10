@@ -2,7 +2,6 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 import EgovLoginContent from 'pages/login/EgovLoginContent';
-
 import URL from 'constants/url';
 
 function EgovLogin(props) {

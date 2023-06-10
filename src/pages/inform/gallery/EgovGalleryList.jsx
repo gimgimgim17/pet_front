@@ -1,6 +1,5 @@
 import React, { useState, useEffect, useCallback, useRef } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-
 import * as EgovNet from 'api/egovFetch';
 import URL from 'constants/url';
 import { GALLERY_BBS_ID } from 'config';
